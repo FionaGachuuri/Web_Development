@@ -11,7 +11,6 @@ Folder Structure:
 -----------------
 /portfolio-website/
 
-│
 ├── index.html        # Main HTML file
 
 ├── style.css         # Stylesheet
