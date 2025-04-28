@@ -12,9 +12,13 @@ Folder Structure:
 /portfolio-website/
 │
 ├── index.html        # Main HTML file
+
 ├── style.css         # Stylesheet
+
 ├── /images/          # Folder containing all images
+
 ├── README.txt        # This guide
+
 
 How to Set Up:
 --------------
