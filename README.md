@@ -10,6 +10,7 @@ It contains sections like Home, About, Services, Skills, Portfolio, and Contact.
 Folder Structure:
 -----------------
 /portfolio-website/
+
 │
 ├── index.html        # Main HTML file
 
